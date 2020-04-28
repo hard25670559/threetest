@@ -31,5 +31,5 @@ function init() {
 }
 
 function animate() {
-
+    console.log('1')
 }
